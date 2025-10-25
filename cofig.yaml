@@ -1,6 +1,6 @@
 random_seed: 2025
-price_tolerance: 0.10 # ±10% del presupuesto
-radius_km: 20 # radio para distancia si no pertenece a zona preferida
-score_threshold: 75 # para crear etiqueta sintética en el primer entrenamiento
+price_tolerance: 0.10   # ±10% del presupuesto
+radius_km: 20           # radio para distancia si no pertenece a zona preferida
+score_threshold: 75     # para crear etiqueta sintética en el primer entrenamiento
 train_test_split: 0.25
 model: random_forest
