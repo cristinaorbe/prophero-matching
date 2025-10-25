@@ -1,0 +1,101 @@
+client_id,first_time_investor,budget_min,has_max_budget,budget_max,rooms_pref,loft_ok,baths_pref,zones_pref,mortgage_ok,buy_window_end,yield_min,reno_budget_pref,must_haves,nice_to_haves
+C001,False,50000,True,82678,[2],False,[1],"[""Anna"", ""Almoradí""]",Sí,2026-01-26,0.065,small,"aire_acond,reformado",ascensor
+C002,True,50000,True,72081,[2],False,[1],"[""Illescas""]",Sí,2026-01-24,0.05,small,"exterior,terraza","aire_acond,reformado,trastero"
+C003,True,55000,True,66468,[1],False,[],"[""Anna"", ""Toledo"", ""Almoradí""]",Sí,2026-01-10,0.05,small,trastero,
+C004,True,60000,True,69334,[2],False,[1],"[""Murcia"", ""Illescas""]",No,2026-01-16,0.055,small,,"ascensor,terraza,reformado"
+C005,True,50000,True,108597,[2],False,[],"[""Murcia"", ""Almoradí""]",Sí,2026-01-15,0.06,medium,"ascensor,trastero",
+C006,False,65000,True,71552,"[1, 2]",False,[],"[""Sagunto"", ""Almoradí"", ""Illescas""]",Sí,2026-01-08,0.05,small,reformado,"trastero,terraza"
+C007,True,55000,True,79094,[2],False,[],"[""Anna"", ""Murcia""]",No,2026-01-27,0.055,small,exterior,
+C008,True,55000,True,60217,[1],False,[],"[""Anna""]",Sí,2026-01-15,0.055,small,terraza,"aire_acond,garaje"
+C009,True,50000,True,74532,[1],False,[1],"[""Illescas""]",Sí,2026-01-09,0.05,medium,,"trastero,aire_acond"
+C010,True,65000,True,108864,[2],False,[],"[""Valencia"", ""Alicante"", ""Illescas""]",No,2026-01-23,0.06,medium,reformado,"exterior,aire_acond"
+C011,True,55000,True,67610,"[1, 2]",False,[1],"[""Valencia""]",Sí,2026-01-16,0.05,small,garaje,
+C012,True,50000,True,62024,[1],False,[],"[""Anna"", ""Xàtiva""]",Sí,2026-02-04,0.055,small,exterior,
+C013,True,60000,True,68027,[2],False,[1],"[""Sagunto""]",Sí,2026-01-20,0.05,small,"trastero,terraza","reformado,ascensor,exterior"
+C014,True,60000,True,76393,"[1, 2]",False,[1],"[""Toledo"", ""Xàtiva""]",No,2026-01-10,0.05,small,"ascensor,reformado","exterior,garaje"
+C015,True,50000,True,76096,[1],False,[],"[""Murcia"", ""Toledo"", ""Xàtiva""]",Sí,2026-01-25,0.05,medium,trastero,"terraza,aire_acond,exterior"
+C016,True,55000,True,63741,[2],False,[],"[""Alicante""]",Indiferente,2026-01-28,0.05,small,ascensor,trastero
+C017,True,50000,True,60323,[2],False,[1],"[""Murcia"", ""Illescas""]",Sí,2026-02-02,0.055,medium,aire_acond,trastero
+C018,True,60000,True,79553,[2],False,[],"[""Valencia"", ""Almoradí""]",Sí,2026-01-11,0.06,medium,"aire_acond,exterior","reformado,garaje"
+C019,False,50000,True,79323,[2],False,[],"[""Anna"", ""Illescas""]",Sí,2026-01-12,0.055,medium,"garaje,exterior","aire_acond,trastero"
+C020,True,60000,True,75061,"[0, 1]",True,[],"[""Valencia"", ""Castellón""]",Sí,2026-02-02,0.07,small,aire_acond,reformado
+C021,True,55000,True,69289,[1],False,[],"[""Sagunto"", ""Castellón""]",Sí,2026-01-17,0.07,medium,reformado,
+C022,True,55000,True,64704,"[0, 1]",True,[1],"[""Sagunto"", ""Alicante"", ""Almoradí""]",Sí,2026-01-22,0.06,medium,exterior,garaje
+C023,True,50000,True,69559,[2],False,[],"[""Alicante""]",Sí,2026-01-13,0.055,medium,garaje,reformado
+C024,True,50000,True,78127,[2],False,[],"[""Anna"", ""Castellón""]",Sí,2026-01-19,0.055,medium,,"reformado,ascensor,aire_acond"
+C025,True,55000,True,96317,"[0, 2]",True,[1],"[""Murcia"", ""Toledo""]",Sí,2026-02-05,0.05,small,,aire_acond
+C026,True,55000,True,75935,[2],False,[],"[""Sagunto"", ""Murcia""]",Indiferente,2026-01-16,0.05,medium,,exterior
+C027,True,55000,True,69990,"[1, 2]",False,[],"[""Sagunto"", ""Castellón"", ""Xàtiva""]",Sí,2026-01-26,0.05,medium,"trastero,ascensor",garaje
+C028,False,55000,True,65974,[2],False,[1],"[""Valencia"", ""Almoradí""]",Sí,2026-01-08,0.07,medium,,"exterior,trastero,ascensor"
+C029,True,50000,False,,"[0, 2]",True,[1],"[""Castellón""]",No,2026-01-29,0.07,small,,"terraza,garaje,reformado"
+C030,True,55000,True,100179,[2],False,[],"[""Sagunto""]",Sí,2026-02-06,0.055,small,,garaje
+C031,False,55000,True,68666,[1],False,[1],"[""Anna""]",Sí,2026-01-16,0.07,small,ascensor,trastero
+C032,True,50000,True,62658,"[0, 2]",True,[],"[""Murcia"", ""Illescas""]",Sí,2026-01-27,0.06,medium,,"exterior,ascensor,aire_acond"
+C033,True,50000,True,79406,[1],False,[],"[""Xàtiva"", ""Illescas""]",Sí,2026-01-19,0.05,high,,"terraza,ascensor,trastero"
+C034,True,60000,True,82560,[1],False,[],"[""Valencia"", ""Alicante""]",Sí,2026-01-24,0.055,small,terraza,"reformado,aire_acond,ascensor"
+C035,True,60000,True,73815,[1],False,[],"[""Sagunto"", ""Castellón""]",Indiferente,2026-01-18,0.05,small,,ascensor
+C036,True,50000,True,79908,"[0, 2]",True,[1],"[""Murcia""]",Sí,2026-01-10,0.07,medium,aire_acond,
+C037,True,55000,True,74475,[1],False,[],"[""Sagunto""]",Sí,2026-01-26,0.05,small,"terraza,aire_acond","garaje,exterior"
+C038,True,65000,True,103971,[2],False,"[1, 2]","[""Sagunto"", ""Anna""]",Sí,2026-01-30,0.05,high,exterior,trastero
+C039,True,50000,True,78086,[1],False,[],"[""Murcia""]",Sí,2026-01-10,0.065,small,"reformado,terraza",ascensor
+C040,True,60000,True,79411,[2],False,[],"[""Castellón""]",Sí,2026-02-02,0.05,medium,"garaje,reformado",
+C041,True,55000,False,,"[0, 2]",True,[],"[""Valencia"", ""Illescas""]",Sí,2026-01-17,0.055,medium,aire_acond,trastero
+C042,True,50000,True,77407,[2],False,[1],"[""Anna"", ""Alicante""]",Sí,2026-01-23,0.05,medium,"exterior,ascensor",trastero
+C043,False,65000,True,70771,[1],False,[1],"[""Sagunto"", ""Illescas""]",Sí,2026-02-01,0.05,medium,reformado,terraza
+C044,True,55000,True,71960,[1],False,"[1, 2]","[""Sagunto""]",Sí,2026-01-13,0.05,small,,"ascensor,trastero,terraza"
+C045,True,50000,False,,[1],False,[],"[""Sagunto"", ""Toledo"", ""Illescas""]",Sí,2026-01-09,0.055,small,"ascensor,exterior",
+C046,True,60000,True,66348,[2],False,[1],"[""Toledo"", ""Illescas""]",Indiferente,2026-01-11,0.07,small,ascensor,
+C047,True,60000,True,78062,[1],False,[],"[""Sagunto""]",Sí,2026-01-23,0.06,high,"reformado,exterior",
+C048,True,50000,True,72770,[2],False,[],"[""Sagunto"", ""Toledo""]",Sí,2026-01-20,0.055,small,"reformado,exterior",
+C049,False,60000,True,77212,[2],False,[],"[""Xàtiva"", ""Alicante"", ""Almoradí""]",Indiferente,2026-01-14,0.055,small,"garaje,aire_acond",reformado
+C050,False,50000,True,66933,"[0, 2]",True,[1],"[""Toledo""]",No,2026-01-18,0.055,medium,,"garaje,exterior"
+C051,True,60000,True,72839,[1],False,[],"[""Anna"", ""Murcia""]",No,2026-01-28,0.055,medium,,"garaje,trastero"
+C052,False,55000,True,74103,[1],False,[1],"[""Valencia"", ""Illescas""]",Sí,2026-01-27,0.055,high,,terraza
+C053,False,60000,True,71402,[1],False,"[1, 2]","[""Valencia"", ""Alicante"", ""Almoradí""]",No,2026-01-20,0.05,small,"ascensor,aire_acond","garaje,reformado"
+C054,True,55000,False,,"[1, 2]",False,[],"[""Almoradí""]",No,2026-02-01,0.05,small,"garaje,exterior",ascensor
+C055,False,50000,True,102499,[1],False,[],"[""Murcia"", ""Xàtiva""]",Sí,2026-01-16,0.06,medium,aire_acond,garaje
+C056,True,60000,True,70759,[2],False,"[1, 2]","[""Murcia"", ""Castellón"", ""Almoradí""]",Sí,2026-01-16,0.06,medium,"aire_acond,garaje","exterior,terraza,reformado"
+C057,True,60000,False,,[1],False,[1],"[""Sagunto"", ""Anna""]",Indiferente,2026-02-06,0.06,medium,,
+C058,False,55000,False,,[1],False,[],"[""Murcia"", ""Xàtiva""]",Indiferente,2026-01-22,0.05,small,,"reformado,exterior"
+C059,True,50000,True,75932,[2],False,[],"[""Valencia"", ""Castellón"", ""Illescas""]",Sí,2026-01-18,0.05,medium,,garaje
+C060,True,50000,True,69951,[1],False,[1],"[""Sagunto""]",No,2026-01-16,0.055,medium,"terraza,garaje",aire_acond
+C061,True,60000,True,95613,"[1, 2]",False,[],"[""Toledo""]",Sí,2026-01-11,0.055,small,,"trastero,aire_acond,ascensor"
+C062,False,65000,True,79641,[1],False,[],"[""Valencia"", ""Castellón"", ""Alicante""]",Sí,2026-01-28,0.07,small,"terraza,trastero",
+C063,True,60000,True,73753,[1],False,[],"[""Toledo""]",Sí,2026-02-05,0.05,small,,"exterior,ascensor,aire_acond"
+C064,False,60000,True,79542,[2],False,[1],"[""Castellón"", ""Alicante""]",Indiferente,2026-01-20,0.055,medium,,"aire_acond,terraza,garaje"
+C065,True,60000,True,72534,"[0, 2]",True,"[1, 2]","[""Murcia"", ""Castellón""]",Sí,2026-01-28,0.055,high,"terraza,trastero",
+C066,True,60000,True,97502,[1],False,[],"[""Murcia""]",Indiferente,2026-01-09,0.055,high,trastero,"exterior,reformado,ascensor"
+C067,False,50000,True,117456,"[1, 2]",False,[],"[""Toledo"", ""Alicante""]",Sí,2026-01-13,0.05,small,garaje,trastero
+C068,False,55000,True,67629,[2],False,[],"[""Anna"", ""Castellón"", ""Xàtiva""]",Sí,2026-01-11,0.065,small,garaje,"trastero,aire_acond"
+C069,True,50000,True,71777,"[0, 2]",True,[1],"[""Sagunto"", ""Xàtiva""]",Indiferente,2026-02-03,0.055,small,"reformado,garaje",
+C070,True,55000,True,67859,[1],False,"[1, 2]","[""Xàtiva""]",Sí,2026-01-17,0.065,small,exterior,aire_acond
+C071,True,65000,True,74090,[1],False,[1],"[""Sagunto"", ""Almoradí""]",Sí,2026-01-24,0.065,medium,,
+C072,True,55000,True,70586,[1],False,[],"[""Alicante""]",Sí,2026-01-22,0.055,small,terraza,"exterior,aire_acond"
+C073,True,55000,True,71809,[1],False,[1],"[""Anna""]",Sí,2026-01-31,0.05,small,"trastero,garaje","exterior,terraza,reformado"
+C074,True,55000,True,77411,[2],False,[],"[""Illescas""]",Sí,2026-01-30,0.065,small,,terraza
+C075,True,55000,True,75584,[2],False,[],"[""Castellón"", ""Alicante""]",Sí,2026-01-20,0.055,small,terraza,
+C076,False,50000,True,69881,[1],False,"[1, 2]","[""Illescas""]",Indiferente,2026-02-07,0.05,small,"exterior,reformado",ascensor
+C077,True,60000,True,70786,[2],False,[],"[""Anna"", ""Murcia""]",Indiferente,2026-01-09,0.065,medium,,"reformado,aire_acond"
+C078,False,55000,True,78459,[2],False,[],"[""Castellón"", ""Almoradí""]",Sí,2026-01-22,0.06,small,"aire_acond,exterior",
+C079,True,65000,True,78994,[2],False,[1],"[""Valencia"", ""Murcia"", ""Toledo""]",Sí,2026-02-06,0.065,small,,"exterior,garaje,trastero"
+C080,True,60000,True,69773,[1],False,[],"[""Illescas""]",Indiferente,2026-02-02,0.05,high,,aire_acond
+C081,True,55000,True,66107,[1],False,[1],"[""Valencia"", ""Anna""]",Indiferente,2026-01-26,0.055,medium,,terraza
+C082,True,55000,True,61302,[2],False,[],"[""Sagunto""]",Sí,2026-02-01,0.055,medium,trastero,garaje
+C083,True,60000,True,66581,[1],False,[1],"[""Anna"", ""Illescas""]",Sí,2026-01-31,0.05,high,reformado,garaje
+C084,True,60000,True,92506,"[1, 2]",False,[],"[""Valencia""]",Sí,2026-01-30,0.065,medium,,terraza
+C085,False,55000,True,67182,[1],False,[],"[""Anna""]",Sí,2026-02-02,0.05,small,terraza,"reformado,ascensor"
+C086,True,55000,True,68893,[2],False,[],"[""Almoradí""]",Sí,2026-01-25,0.06,small,,garaje
+C087,True,50000,True,74901,[2],False,[1],"[""Castellón"", ""Xàtiva"", ""Toledo""]",Sí,2026-01-22,0.055,small,,"garaje,trastero"
+C088,True,65000,False,,[2],False,[],"[""Anna"", ""Murcia""]",Sí,2026-01-29,0.06,small,,"garaje,ascensor"
+C089,True,65000,True,74339,[1],False,[1],"[""Illescas""]",Sí,2026-01-27,0.055,small,garaje,"reformado,trastero"
+C090,True,60000,True,77782,[2],False,[],"[""Anna"", ""Illescas""]",Sí,2026-01-29,0.07,high,"exterior,terraza","garaje,reformado,aire_acond"
+C091,True,55000,True,67710,"[0, 2]",True,[],"[""Valencia"", ""Castellón""]",Sí,2026-02-01,0.05,small,"trastero,aire_acond",
+C092,True,50000,True,80318,[1],False,[],"[""Valencia"", ""Illescas""]",Sí,2026-02-07,0.055,medium,"trastero,garaje",
+C093,True,65000,True,119305,"[0, 2]",True,[],"[""Castellón""]",Indiferente,2026-01-16,0.07,high,"aire_acond,garaje",trastero
+C094,False,55000,True,61312,"[0, 1, 2]",True,[],"[""Valencia"", ""Alicante"", ""Sagunto""]",Sí,2026-01-10,0.055,medium,reformado,aire_acond
+C095,True,60000,True,67068,[2],False,"[1, 2]","[""Murcia"", ""Castellón""]",Indiferente,2026-01-30,0.065,medium,,"reformado,aire_acond"
+C096,False,55000,True,74375,[2],False,[1],"[""Xàtiva""]",Sí,2026-01-12,0.05,small,"ascensor,terraza","trastero,exterior,aire_acond"
+C097,True,50000,True,60826,[2],False,[1],"[""Murcia"", ""Xàtiva""]",Sí,2026-01-14,0.07,medium,,"trastero,terraza,garaje"
+C098,True,50000,True,68693,"[1, 2]",False,[],"[""Valencia"", ""Almoradí""]",No,2026-02-03,0.05,small,,"terraza,exterior"
+C099,True,55000,True,118001,[2],False,[],"[""Murcia""]",Sí,2026-01-28,0.05,small,"trastero,exterior",ascensor
+C100,False,55000,True,67520,"[1, 2]",False,[1],"[""Anna"", ""Murcia"", ""Sagunto""]",Indiferente,2026-01-11,0.055,small,,"ascensor,aire_acond,terraza"
